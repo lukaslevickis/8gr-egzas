@@ -147,12 +147,10 @@ function countKurArVilniujeDaugiauVeg(data) {
 
     let resultOther = (veg * 100) / count;
 
-    if (resultVilnius >= resultOther) {
-        console.log("Po vienodai");
-    } else if (resultVilnius > resultOther) {
-        console.log("Vilniuje daugiau vegetarisku patiekalu");
+    if (resultVilnius > resultOther) {
+        console.log("Vilniuje daugiau vegetarisku patiekalu? - Taip");
     } else {
-        console.log("Vilniuje maziau vegetarisku patiekalu");
+        console.log("Vilniuje daugiau vegetarisku patiekalu? - Ne");
     }
 }
 
