@@ -3,15 +3,15 @@ data = [{
         adresas: 'juozapaviciaus pr, Kaunas',
         menu: [{
                 pica: 10.5,
-                vegetariska: ne,
+                vegetariska: "ne",
             },
             {
                 ledai: 2.5,
-                vegetariska: taip,
+                vegetariska: "taip",
             },
             {
                 sriuba: 1.2,
-                vegetariska: ne,
+                vegetariska: "ne",
             },
         ]
     },
@@ -20,15 +20,15 @@ data = [{
         adresas: 'gertrudos g, Kaunas',
         menu: [{
                 suktinukai: 6.5,
-                vegetariska: ne,
+                vegetariska: "ne",
             },
             {
                 sonkauliukai: 12.2,
-                vegetariska: ne,
+                vegetariska: "ne",
             },
             {
                 falafeliai: 4.2,
-                vegetariska: taip,
+                vegetariska: "taip",
             },
         ]
     },
@@ -37,15 +37,15 @@ data = [{
         adresas: 'Mindaugo g, Vilnius',
         menu: [{
                 suktinukai: 6.5,
-                vegetariska: ne,
+                vegetariska: "ne",
             },
             {
                 sonkauliukai: 12.2,
-                vegetariska: ne,
+                vegetariska: "ne",
             },
             {
                 falafeliai: 4.2,
-                vegetariska: taip,
+                vegetariska: "taip",
             },
         ]
     },
@@ -54,15 +54,15 @@ data = [{
         adresas: 'gertrudos g, Jonava',
         menu: [{
                 vistienos_kepsnys: 6.5,
-                vegetariska: ne,
+                vegetariska: "ne",
             },
             {
                 cili_troskinys: 4.2,
-                vegetariska: ne,
+                vegetariska: "ne",
             },
             {
                 falafeliai: 4.2,
-                vegetariska: taip,
+                vegetariska: "taip",
             },
         ]
     },
@@ -71,15 +71,15 @@ data = [{
         adresas: 'Vaišganto g, kaunas',
         menu: [{
                 kebabai: 6.5,
-                vegetariska: ne,
+                vegetariska: "ne",
             },
             {
                 sonkauliukai: 12.2,
-                vegetariska: ne,
+                vegetariska: "ne",
             },
             {
                 free_bulvytes: 4.2,
-                vegetariska: taip,
+                vegetariska: "taip",
             },
         ]
     },
